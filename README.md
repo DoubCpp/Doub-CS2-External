@@ -30,13 +30,14 @@ a cheat made to learn above all so takes a lot of performance and is not very op
 
 ## Menu
 
-![Main]<img src="http://www.image-heberg.fr/files/17109766833400977826.png" alt="main.PNG" />
+#### Main
+<img src="http://www.image-heberg.fr/files/17109766833400977826.png" alt="main.PNG" />
 #### View
-![Page1](https://ibb.co/W6zyVwY)
+<img src="http://www.image-heberg.fr/files/17109768331174344650.png" alt="page1.PNG" />
 #### Page Colors
-![Page2](https://ibb.co/RTjcVkr)
+<img src="http://www.image-heberg.fr/files/171097684917574889.png" alt="page2.PNG" />
 #### Page Aim
-![Page2](https://ibb.co/jrCcDkT)
+<img src="http://www.image-heberg.fr/files/171097684917574889.png" alt="page2.PNG" />
 
 
 ## CS2 Dumper
