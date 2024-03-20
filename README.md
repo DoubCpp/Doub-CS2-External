@@ -32,11 +32,11 @@ a cheat made to learn above all so takes a lot of performance and is not very op
 
 #### Main
 <img src="http://www.image-heberg.fr/files/17109766833400977826.png" alt="main.PNG" />
-#### View
+View
 <img src="http://www.image-heberg.fr/files/17109768331174344650.png" alt="page1.PNG" />
-#### Page Colors
+Colors
 <img src="http://www.image-heberg.fr/files/171097684917574889.png" alt="page2.PNG" />
-#### Page Aim
+Aim
 <img src="http://www.image-heberg.fr/files/171097684917574889.png" alt="page2.PNG" />
 
 
