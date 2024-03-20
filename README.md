@@ -3,10 +3,16 @@
 
 A cheat made to learn above all so takes a lot of performance and is not very optimized
 
+## Menu
 
-## Authors
-
-- [@Douuub](https://www.github.com/Douuub)
+#### Main
+<img src="http://www.image-heberg.fr/files/17109766833400977826.png" alt="main.PNG" />
+View
+<img src="http://www.image-heberg.fr/files/17109768331174344650.png" alt="page1.PNG" />
+Colors
+<img src="http://www.image-heberg.fr/files/171097684917574889.png" alt="page2.PNG" />
+Aim
+<img src="http://www.image-heberg.fr/files/171097684917574889.png" alt="page2.PNG" />
 
 
 ## Roadmap
@@ -27,21 +33,13 @@ A cheat made to learn above all so takes a lot of performance and is not very op
 
 - Trigger Bot
 
-
-## Menu
-
-#### Main
-<img src="http://www.image-heberg.fr/files/17109766833400977826.png" alt="main.PNG" />
-View
-<img src="http://www.image-heberg.fr/files/17109768331174344650.png" alt="page1.PNG" />
-Colors
-<img src="http://www.image-heberg.fr/files/171097684917574889.png" alt="page2.PNG" />
-Aim
-<img src="http://www.image-heberg.fr/files/171097684917574889.png" alt="page2.PNG" />
-
-
 ## CS2 Dumper
 
 Don't forget to update the offers with this link
 - [@a2x](https://github.com/a2x/cs2-dumper)
+
+## Authors
+
+- [@Douuub](https://www.github.com/Douuub)
+
 
