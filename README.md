@@ -33,10 +33,10 @@ Aim
 
 - Trigger Bot
 
-## CS2 Dumper
+²## CS2 Dumper
 
 Don't forget to update the offers with this link
-- [Offsets](https://github.com/a2x/cs2-dumper)
+- [Offsets](https://github.com/a2x/cs2-dumper/tree/main/generated)
 
 ## Authors
 
