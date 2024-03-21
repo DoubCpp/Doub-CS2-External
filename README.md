@@ -42,4 +42,8 @@ Don't forget to update the offers with this link
 
 - [@Douuub](https://www.github.com/Douuub)
 
+## Support 
+
+- [Discord](https://discord.gg/UaY4E8qnYd)
+
 
