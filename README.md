@@ -12,7 +12,7 @@ View
 Colors
 <img src="http://www.image-heberg.fr/files/171097684917574889.png" alt="page2.PNG" />
 Aim
-<img src="http://www.image-heberg.fr/files/171097684917574889.png" alt="page2.PNG" />
+<img src="http://www.image-heberg.fr/files/17211369621914520260.jpg" alt="3.jpg" />
 
 
 ## Functionality
